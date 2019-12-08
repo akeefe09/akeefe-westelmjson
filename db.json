@@ -1,4 +1,4 @@
-{
+[{
     "id": "shop/new/all-new",
     "name": "All New",
     "categoryType": "subcat",
@@ -753,4 +753,4 @@
     ],
     "totalPages": 64,
     "categories": []
-  }
+  }]
